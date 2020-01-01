@@ -1,0 +1,33 @@
+{
+  "name": "kucing",
+  "version": "1.0.0",
+  "description": "Aplikasi CRUD dengan Menggunakan Node.js",
+  "main": "server.js",
+  "scripts": {
+    "run": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fachry-byte/Kucing.git"
+  },
+  "keywords": [
+    "crud",
+    "database",
+    "data"
+  ],
+  "author": "Ezra Khairan Permana & Fachry Azriel Fajdwani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fachry-byte/Kucing/issues"
+  },
+  "homepage": "https://github.com/Fachry-byte/Kucing#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
