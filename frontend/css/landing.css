@@ -51,10 +51,6 @@ main p span {
   font-size: 35px;
 }
 
-main p code {
-  font-family: monospace;
-}
-
 .cell {
   border-bottom: 1px solid #333;
   padding: 10px;
@@ -62,12 +58,4 @@ main p code {
 
 .no-border {
   border: none;
-}
-
-footer {
-  grid-area: footer;
-  padding: 10px;
-  height: auto;
-  background-color: #333;
-  color: #eaeaea;
 }
