@@ -28,7 +28,8 @@
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.0",
     "jsonwebtoken": "^8.5.1",
-    "nedb": "^1.8.0"
+    "nedb": "^1.8.0",
+    "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
